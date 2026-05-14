@@ -1,8 +1,8 @@
 # Foundation Companion
 
-Foundation Companion walks you through Jake's 11 Foundation lessons by having you build each concept in Claude Code as you go. Instead of reading, you do.
+Foundation Companion walks you through Jake Van Clief's 11 Foundation lessons from his Skool community by having you build each concept in Claude Code as you go. Instead of reading, you do.
 
-For Jake Skool forum members who've tried the Foundation lessons and want a more hands-on walkthrough.
+For Clief Notes Skool forum members who've tried the Foundation lessons and want a more hands-on walkthrough.
 
 ---
 
