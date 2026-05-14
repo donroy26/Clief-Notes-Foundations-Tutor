@@ -1,4 +1,4 @@
-# Lesson 4.3 — Claude Desktop as Thinking Partner
+# Lesson 8 — Claude Desktop as Thinking Partner
 
 <!-- Source: Lesson 4.3.md -->
 
@@ -93,14 +93,14 @@ Conversations are disposable. The thinking is not. Do not treat a Claude convers
 
 <!-- Runtime instructions for Claude — not prose delivered to the user -->
 
-The artifact for this lesson is a thinking-partner prompt written in the five-part format from Lesson 1.3.
+The artifact for this lesson is a thinking-partner prompt written in the five-part format from Lesson 2.
 
 **Step 1: Identify a real problem.**
 - Instruction: "Pick a real problem or decision you have been sitting on — something you have been putting off or going back and forth on. What is it?"
 - Wait for their answer. If they say "I don't have one" — ask: "Is there anything in your work where you keep second-guessing the direction? Or something you're about to start that you're not 100% sure about?"
 
 **Step 2: Run a thinking session.**
-- Instruction: "Now let's run the thinking session. Here's how to structure the prompt — use the five-part framework from Lesson 1.3:
+- Instruction: "Now let's run the thinking session. Here's how to structure the prompt — use the five-part framework from Lesson 2:
 
 Identity: You are a strategic advisor helping me think through a decision.
 Task: Help me identify what I'm not seeing about [your problem].

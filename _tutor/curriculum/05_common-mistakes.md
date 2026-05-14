@@ -1,4 +1,4 @@
-# Lesson 3.3 — Common Mistakes
+# Lesson 5 — Common Mistakes
 
 <!-- Source: Lesson 3.3.md -->
 
@@ -178,4 +178,4 @@ Fill in your honest assessment. Tell me when it's saved."
 
 4. A good answer identifies a specific mistake and explains why it would be hard to avoid (e.g., "Mistake 5 — I'll forget to update context files because I don't have a trigger for it"). A bad answer is "all of them" or "I don't know."
 
-**Section boundary:** This is Lesson 3.3 — a section boundary. After both checks pass, go to Phase E (Close) and deliver the restart phrasing from PERSONA.md.
+**Section boundary:** This is Lesson 5 — a section boundary. After both checks pass, go to Phase E (Close) and deliver the restart phrasing from PERSONA.md.

@@ -1,4 +1,4 @@
-# Lesson 1.3 — How to Structure Any Prompt
+# Lesson 2 — How to Structure Any Prompt
 
 <!-- Source: Lesson 1.3.md -->
 
@@ -235,7 +235,7 @@ Walk through each of the five parts in sequence:
   - [User writes it.]
 
 **Step 4: Assemble and save.**
-- Instruction: "Put all five parts together into one prompt. Save it as a file in your workspace folder from Lesson 1.2. Name it something like `prompts/[topic].md` or just `my-first-prompt.md`. Tell me the path when it's saved."
+- Instruction: "Put all five parts together into one prompt. Save it as a file in your workspace folder from Lesson 1. Name it something like `prompts/[topic].md` or just `my-first-prompt.md`. Tell me the path when it's saved."
 - Inspect: Read the saved file. Verify all five parts are present and the prompt is coherent.
 
 **Artifact:** `[user-named-folder]/prompts/[prompt-name].md` (or equivalent path)
@@ -263,4 +263,4 @@ Walk through each of the five parts in sequence:
 
 4. Do not advance until both artifact inspection and Q&A pass. A good answer identifies a specific part (e.g., "I'd check if I gave enough Context" or "I'd look at whether my Task is specific enough"). A bad answer is "I'd rewrite the whole thing" or "I don't know."
 
-**Section boundary:** This is Lesson 1.3 — a section boundary. After both checks pass, go to Phase E (Close) and deliver the restart phrasing from PERSONA.md.
+**Section boundary:** This is Lesson 2 — a section boundary. After both checks pass, go to Phase E (Close) and deliver the restart phrasing from PERSONA.md.

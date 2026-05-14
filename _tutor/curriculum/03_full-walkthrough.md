@@ -1,4 +1,4 @@
-# Lesson 3.1 — Full Walkthrough
+# Lesson 3 — Full Walkthrough
 
 <!-- Source: Lesson 3.1.md, 3.1 transcript video.md -->
 
@@ -196,7 +196,7 @@ This is the densest lesson. Three sequential sub-builds. Run each one, do the mi
 
 **Sub-build 1 — The Map (CLAUDE.md)**
 
-- Instruction: "Let's start with Layer 1 — the Map. You already have a CLAUDE.md from Lesson 1.2. We're going to update it to include a routing table. Open it. Here's the structure to add:
+- Instruction: "Let's start with Layer 1 — the Map. You already have a CLAUDE.md from Lesson 1. We're going to update it to include a routing table. Open it. Here's the structure to add:
 
 ```
 # [Your Project Name]

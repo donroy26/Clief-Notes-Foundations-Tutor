@@ -63,7 +63,7 @@ Read this file on every session open. Every lesson runs the full five-phase Less
 
 Check whether this lesson is a section boundary.
 
-**Section boundaries:** Lesson 1.3, Lesson 3.3, Lesson 4.5.
+**Section boundaries:** Lesson 2, Lesson 5, Lesson 10.
 
 **If section boundary:**
 1. Write progress.md (update `current_lesson` to next lesson slug).

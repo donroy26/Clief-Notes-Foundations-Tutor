@@ -1,4 +1,4 @@
-# Lesson 4.1 — Install and First Use
+# Lesson 6 — Install and First Use
 
 <!-- Source: Lesson 4.1.md, 4.1 transcript video.md -->
 

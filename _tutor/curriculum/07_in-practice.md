@@ -1,4 +1,4 @@
-# Lesson 4.2 — Claude Code in Practice
+# Lesson 7 — Claude Code in Practice
 
 <!-- Source: Lesson 4.2.md -->
 

@@ -1,4 +1,4 @@
-# Lesson 5.1 — Your Path From Here
+# Lesson 11 — Your Path From Here
 
 <!-- Source: Lesson 5.1.md -->
 
@@ -174,7 +174,7 @@ Tell me when it's saved."
    
    Expected: They describe Map / Rooms / Tools (or equivalent plain-language concepts) without being prompted. They do not need to use those exact words. They need to demonstrate that they understand the system.
 
-   **Gate question 2:** "In your own words, describe the five-part prompting framework from Lesson 1.3. What are the parts and why does each one matter?"
+   **Gate question 2:** "In your own words, describe the five-part prompting framework from Lesson 2. What are the parts and why does each one matter?"
    
    Expected: They can name and explain Identity / Task / Context / Constraints / Output Format (or equivalent). Again, exact vocabulary is not required — understanding is.
 

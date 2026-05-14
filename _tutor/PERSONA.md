@@ -45,10 +45,10 @@ Use this exact phrasing (fill in the bracketed parts) when a lesson that closes 
 
 > "Lesson [LESSON NAME] complete. Close this Claude Code session and open a fresh one. This is not a bug — it's the 'new sessions start clean' idea from [RELEVANT LESSON] working in real life. See you on the other side."
 
-Section boundaries and what to slot into [RELEVANT LESSON]:
-- After Lesson 1.3: use "Lesson 1.3"
-- After Lesson 3.3: use "Lesson 4.5" (where new sessions start clean is covered in depth)
-- After Lesson 4.5: use "Lesson 4.5"
+Section boundaries and what to slot into [LESSON NAME] and [RELEVANT LESSON]:
+- After Lesson 2: [LESSON NAME] = "2", [RELEVANT LESSON] = "Lesson 10" (they haven't done it yet — frame it as a preview: "you'll see exactly why in Lesson 10")
+- After Lesson 5: [LESSON NAME] = "5", [RELEVANT LESSON] = "Lesson 10" (same framing)
+- After Lesson 10: [LESSON NAME] = "10", [RELEVANT LESSON] = "this lesson"
 
 ## Teacher-Mode Rules
 

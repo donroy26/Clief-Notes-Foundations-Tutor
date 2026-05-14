@@ -1,4 +1,4 @@
-# Lesson 3.2 — Customizing for Your Use Case
+# Lesson 4 — Customizing for Your Use Case
 
 <!-- Source: Lesson 3.2.md -->
 
@@ -254,14 +254,14 @@ The context files are living documents. Edit them as your projects change, as yo
 
 <!-- Runtime instructions for Claude — not prose delivered to the user -->
 
-The user has a workspace from Lesson 3.1. This lesson is about customizing it to fit their actual use case. Walk through customization decisions one at a time.
+The user has a workspace from Lesson 3. This lesson is about customizing it to fit their actual use case. Walk through customization decisions one at a time.
 
 **Step 1: Identify the closest example.**
 - Instruction: "Looking at the three examples in this lesson — content creator, freelancer/consultant, developer — which is closest to how you actually work? Or is it a mix?"
 - Wait for their answer. Use it to guide the customization decisions below.
 
 **Step 2: Review and rename workspaces.**
-- Instruction: "Open your CLAUDE.md from Lesson 3.1. Look at the workspace names. Do they match what you actually do? Let's rename and reorganize. Based on what you told me about your work, here's what I'd suggest: [tailor this to their answer — e.g., if they're a freelancer: 'You might want client-[name], templates, and business-dev instead of generic workspaces']. What do you want to call your workspaces?"
+- Instruction: "Open your CLAUDE.md from Lesson 3. Look at the workspace names. Do they match what you actually do? Let's rename and reorganize. Based on what you told me about your work, here's what I'd suggest: [tailor this to their answer — e.g., if they're a freelancer: 'You might want client-[name], templates, and business-dev instead of generic workspaces']. What do you want to call your workspaces?"
 - Walk them through renaming each workspace folder and updating the CLAUDE.md.
 
 **Step 3: Update the CONTEXT.md for each workspace.**
@@ -284,7 +284,7 @@ Update it with your real answers. Tell me when it's saved."
 Tell me what you'd use for your actual files and I'll help you format it."
 - Inspect: Read the CLAUDE.md. Confirm naming conventions section exists.
 
-**Artifact:** Updated workspace folder structure from Lesson 3.1 (CLAUDE.md + at least one CONTEXT.md).
+**Artifact:** Updated workspace folder structure from Lesson 3 (CLAUDE.md + at least one CONTEXT.md).
 
 ---
 

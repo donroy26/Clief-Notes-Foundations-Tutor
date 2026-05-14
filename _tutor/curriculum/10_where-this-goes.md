@@ -1,4 +1,4 @@
-# Lesson 4.5 — Where This Goes
+# Lesson 10 — Where This Goes
 
 <!-- Source: Lesson 4.5.md -->
 
@@ -110,7 +110,7 @@ The user creates a second scoped context and observes how Claude behaves differe
 
 **Step 2: Create the second folder and CLAUDE.md.**
 - Instruction: "Create a second folder for that area. Give it its own CLAUDE.md — but make it specific to that area, not a copy of your first one. Tell me when it's there."
-- If they're not sure what to put in it: "Use the same five-element template from Lesson 4.4. What's the overview? What's different about how Claude should behave here?"
+- If they're not sure what to put in it: "Use the same five-element template from Lesson 9. What's the overview? What's different about how Claude should behave here?"
 
 **Step 3: Run a comparison.**
 - Instruction: "Now run the same task in both folders. Pick something like: 'Summarize what you know about this project and list three things I should do next.'
@@ -146,4 +146,4 @@ Tell me when it's saved."
 
 4. A good answer names a specific obstacle or next action. A bad answer is vague ("I just need to use it more") or circular ("I need to learn more").
 
-**Section boundary:** This is Lesson 4.5 — a section boundary. After both checks pass, go to Phase E (Close) and deliver the restart phrasing from PERSONA.md.
+**Section boundary:** This is Lesson 10 — a section boundary. After both checks pass, go to Phase E (Close) and deliver the restart phrasing from PERSONA.md.

@@ -1,4 +1,4 @@
-# Lesson 1.2 — Your First Folder
+# Lesson 1 — Your First Folder
 
 <!-- Source: Lesson 1.2.md -->
 

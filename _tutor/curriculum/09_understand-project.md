@@ -1,4 +1,4 @@
-# Lesson 4.4 — Making Claude Understand Your Project
+# Lesson 9 — Making Claude Understand Your Project
 
 <!-- Source: Lesson 4.4.md -->
 
@@ -85,7 +85,7 @@ The user already has a CLAUDE.md from earlier lessons. This lesson deepens it wi
 
 **Step 1: Open their existing CLAUDE.md.**
 - Instruction: "Open the CLAUDE.md you already have in your workspace. Read it back to me — I want to see what's in it."
-- Inspect: Note what's already there. Is it from the basic template in Lesson 1.2, or has it grown?
+- Inspect: Note what's already there. Is it from the basic template in Lesson 1, or has it grown?
 
 **Step 2: Add the five elements.**
 
