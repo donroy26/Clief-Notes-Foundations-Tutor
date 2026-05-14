@@ -56,7 +56,7 @@ Then:
 
 ## How to open this repo in Claude Code
 
-First, get the repo. Either clone it with git (`git clone [repo-url]`) or download the ZIP from GitHub and unzip it somewhere you can find it.
+First, get the repo. Either clone it with git (`git clone https://github.com/donroy26/Clief-Notes-Foundations-Tutor.git`) or download the ZIP from GitHub and unzip it somewhere you can find it.
 
 Then open it. Pick whichever of these matches how you work:
 
