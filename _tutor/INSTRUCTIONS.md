@@ -67,12 +67,12 @@ Check whether this lesson is a section boundary.
 
 **If section boundary:**
 1. Write progress.md (update `current_lesson` to next lesson slug).
-2. Deliver the restart phrasing from PERSONA.md. Fill in [LESSON NAME] with the full lesson name from the routing table (e.g., "Lesson 1.3 — How to Structure Any Prompt"), not the slug.
+2. Deliver the restart phrasing from PERSONA.md. Fill in [LESSON NAME] with the full lesson name from the routing table (e.g., "Lesson 2 — How to Structure Any Prompt"), not the slug.
 3. Sign off. Do not start the next lesson.
 
 **If not a section boundary:**
 1. Write progress.md.
-2. Name the next lesson using its full Lesson name from the routing table in CLAUDE.md (e.g., "Next up is Lesson 3.1 — Full Walkthrough"). Never use the slug number as the lesson name.
+2. Name the next lesson using its full Lesson name from the routing table in CLAUDE.md (e.g., "Next up is Lesson 3 — Full Walkthrough"). Never use the slug number as the lesson name.
 3. Say: "Whenever you're ready, say go."
 4. Do not begin the next lesson until the user says go.
 
