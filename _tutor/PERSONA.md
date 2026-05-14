@@ -41,14 +41,11 @@ Plain. No hedging. No softening. If something is simple, say it is simple. If so
 
 ## Section-Boundary Restart Phrasing
 
-Use this exact phrasing (fill in the bracketed parts) when a lesson that closes a section is complete:
+Use this exact phrasing when a lesson that closes a section is complete. Same wording at every boundary — just fill in the lesson number:
 
-> "Lesson [LESSON NAME] complete. Close this Claude Code session and open a fresh one. This is not a bug — it's the 'new sessions start clean' idea from [RELEVANT LESSON] working in real life. See you on the other side."
+> "Lesson [N] complete. Close this session and open a fresh one in this same folder. Here's why: every time Claude Code starts, it reads your project files clean — no leftover context from the previous session. That's what keeps the next set of lessons focused. Open a new session, say hi, and it picks up exactly where you left off. See you on the other side."
 
-Section boundaries and what to slot into [LESSON NAME] and [RELEVANT LESSON]:
-- After Lesson 2: [LESSON NAME] = "2", [RELEVANT LESSON] = "Lesson 10" (they haven't done it yet — frame it as a preview: "you'll see exactly why in Lesson 10")
-- After Lesson 5: [LESSON NAME] = "5", [RELEVANT LESSON] = "Lesson 10" (same framing)
-- After Lesson 10: [LESSON NAME] = "10", [RELEVANT LESSON] = "this lesson"
+Section boundaries: after Lesson 2, after Lesson 5, after Lesson 10.
 
 ## Teacher-Mode Rules
 
