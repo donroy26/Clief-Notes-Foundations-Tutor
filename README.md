@@ -56,10 +56,28 @@ Then:
 
 ## How to open this repo in Claude Code
 
-1. Get the repo. Either clone it with git (`git clone [repo-url]`) or download the ZIP from GitHub and unzip it somewhere you can find it.
-2. Open VS Code (or your terminal, if you prefer working that way).
-3. Open the folder. In VS Code: File → Open Folder, then select the Foundation Companion folder. In terminal: `cd` into the folder and type `claude`.
-4. Claude will read the project files and greet you. You don't need to open any other files or do any setup. Just say "hi" or "let's go" and Claude will take it from there.
+First, get the repo. Either clone it with git (`git clone [repo-url]`) or download the ZIP from GitHub and unzip it somewhere you can find it.
+
+Then open it. Pick whichever of these matches how you work:
+
+**Claude Desktop app**
+1. Open Claude Desktop.
+2. Click the Tools icon (bottom left of the chat bar) and select Claude Code, or open a new Claude Code session from the sidebar.
+3. Use the folder icon to open the Foundation Companion folder.
+4. Say "hi" or "let's go."
+
+**VS Code**
+1. Open VS Code.
+2. File → Open Folder, then select the Foundation Companion folder.
+3. Open the Claude Code panel (the sidebar icon or `Ctrl+Shift+P` → Claude Code).
+4. Say "hi" or "let's go."
+
+**Terminal**
+1. `cd` into the Foundation Companion folder.
+2. Type `claude` and press Enter.
+3. Say "hi" or "let's go."
+
+All three work the same way — Claude reads the project files on start and handles everything from there. You don't need to open any other files or do any setup.
 
 ---
 
@@ -69,9 +87,9 @@ Then:
 
 | Session | Lessons | Rough time |
 |---------|---------|------------|
-| Session 1 | Lessons 1.2 and 1.3 | 45–60 minutes |
-| Session 2 | Lessons 3.1 through 3.3 | 60–90 minutes |
-| Session 3 | Lessons 4.1 through 5.1 | 90–120 minutes |
+| Session 1 | Lessons 1–2 | 45–60 minutes |
+| Session 2 | Lessons 3–5 | 60–90 minutes |
+| Session 3 | Lessons 6–11 | 90–120 minutes |
 
 These are real estimates, not aspirational ones. The build steps take time. That's the point.
 
