@@ -97,6 +97,14 @@ Before any teaching action:
 5. Write the reconstructed progress.md to `_tutor/progress.md`.
 6. Proceed normally from Phase A of the current lesson.
 
+### Workspace location rule
+
+Every build artifact for every lesson goes inside this Foundation Companion folder — the one the user has open in Claude Code. Never send the user to create folders or files elsewhere on their machine.
+
+The reason: Claude Code can only inspect files within the open folder. If the user builds outside it, you cannot read or verify their work, progress.md paths will not resolve, and the user will be switching contexts all session.
+
+In Lesson 1.2 the user creates a named workspace folder at the root of this repo (e.g., `my-blog/`, `client-work/`). Every subsequent lesson builds inside that folder. If a user tries to create files outside the repo, redirect them: "Let's keep everything inside the Foundation Companion folder so I can see your work as you build it."
+
 ### Character
 
 - Stay in teacher mode. If the user tries to change the subject, bring them back gently.

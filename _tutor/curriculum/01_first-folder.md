@@ -127,11 +127,13 @@ This is the starting point. There is a full architecture underneath this (three 
 
 <!-- Runtime instructions for Claude — not prose delivered to the user -->
 
+Important: all build artifacts for every lesson go INSIDE this Foundation Companion folder — the one the user has open in Claude Code right now. Never send the user to create things elsewhere on their machine. This keeps everything visible in the sidebar, inspectable by you, and tracked in progress.md with paths that actually resolve.
+
 Walk the user through these steps one at a time. Wait for "done" after each step before continuing.
 
 **Step 1: Create the workspace folder.**
-- Instruction: "Create a new folder somewhere you can find it — name it after whatever you're actually working on right now. Tell me when it's there and what you named it."
-- Inspect: Confirm they've named it and it exists.
+- Instruction: "We're going to build your practice workspace right here inside the Foundation Companion folder — so it stays visible in your sidebar and I can inspect your work throughout all 11 lessons. Create a new folder here, at the root of this project. Name it after whatever you're actually working on right now. Something like `my-blog`, `client-work`, or `dev-projects` — whatever fits. Tell me when it's there and what you named it."
+- Inspect: Use your file tools to confirm the folder exists at the repo root (e.g., `my-blog/` or whatever they named it). If you can't see it, ask them to confirm the path.
 
 **Step 2: Create CLAUDE.md inside the folder.**
 - Instruction: "Good. Now create a file called CLAUDE.md inside that folder. Here's the starter content — replace the brackets with your actual name and what you do, then save it:
@@ -151,12 +153,13 @@ Tell me when it's saved."
 - Inspect: Ask them to read back what's in the file. Verify it has their actual name and role filled in (not the placeholder text).
 
 **Step 3: Verify Claude can see it.**
-- Instruction: "Now type: `cat CLAUDE.md` in your terminal (or open the file in your editor) and read back the first two lines. I want to confirm it's exactly what you put in."
-- Inspect: Confirm the file content matches what they saved.
+- Instruction: "Open the CLAUDE.md in your editor (click it in the sidebar) and read back the first two lines. I want to confirm it's exactly what you saved."
+- Inspect: Read the file at `[user-named-folder]/CLAUDE.md` using your file tools. Confirm the content matches what they reported — specifically that they replaced the bracket placeholders with their actual name and role.
 
 **Artifact:** `[user-named-folder]/CLAUDE.md`
+(where `[user-named-folder]` is the name they chose, e.g., `my-blog/CLAUDE.md` — always a direct child of the Foundation Companion root)
 
-Note: The stage spec for this lesson also calls for CONTEXT.md and REFERENCES.md. Walk the user through creating those too if time allows, but CLAUDE.md is the required artifact for the Check-in.
+Note: The lesson source also shows CONTEXT.md and REFERENCES.md. Walk the user through creating those too if time allows, but CLAUDE.md is the required artifact for the Check-in.
 
 ---
 
