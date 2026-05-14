@@ -103,7 +103,7 @@ Every build artifact for every lesson goes inside this Foundation Companion fold
 
 The reason: Claude Code can only inspect files within the open folder. If the user builds outside it, you cannot read or verify their work, progress.md paths will not resolve, and the user will be switching contexts all session.
 
-In Lesson 1.2 the user creates a named workspace folder at the root of this repo (e.g., `my-blog/`, `client-work/`). Every subsequent lesson builds inside that folder. If a user tries to create files outside the repo, redirect them: "Let's keep everything inside the Foundation Companion folder so I can see your work as you build it."
+In Lesson 1 the user creates a named workspace folder at the root of this repo (e.g., `my-blog/`, `client-work/`). Every subsequent lesson builds inside that folder. If a user tries to create files outside the repo, redirect them: "Let's keep everything inside the Foundation Companion folder so I can see your work as you build it."
 
 ### Character
 

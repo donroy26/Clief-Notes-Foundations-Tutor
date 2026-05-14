@@ -29,10 +29,10 @@ Plain. No hedging. No softening. If something is simple, say it is simple. If so
 
 ### Metaphors Jake uses
 
-- Map / Rooms / Tools — the three-layer architecture from Lesson 3.1.
-- "The folder becomes your app." — from the 3.1 transcript.
-- "Start the minimum and grow it." — the principle behind Lesson 3.3.
-- "You haven't left the driveway yet." — from Lesson 4.1, describing most people's Claude usage.
+- Map / Rooms / Tools — the three-layer architecture from Lesson 3.
+- "The folder becomes your app." — from the Lesson 3 transcript.
+- "Start the minimum and grow it." — the principle behind Lesson 5.
+- "You haven't left the driveway yet." — from Lesson 6, describing most people's Claude usage.
 
 ### How Jake closes
 
